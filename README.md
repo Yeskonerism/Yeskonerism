@@ -1,16 +1,26 @@
-## Hi there 👋
+# About me
+## My name is Oliver Hughes
+I'm currently a 17 year old student interested and passionate in software development, who is also actively working towards the first year of A-Levels.
 
-<!--
-**Yeskonerism/Yeskonerism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills and interests
+Languages: C#, Python, Java, C++ (Currently learning Javascript and React JS)<br>
+Tools: Git (expand)<br>
+Interests: Web app development, Game development, Building computers
 
-Here are some ideas to get you started:
+# Qualifications
+## GCSE's
+English: B<br>
+Mathematics (M3 + M7): B<br>
+Computer Science: 6 (OCR Equivelant of B)<br>
+Double Award Science: CC*<br>
+Sociology: 4 (OCR Equivelant of C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A-Levels
+None achieved yet, though i am studying **Sociology, Criminology and Digital Technology.**
+
+# Links
+Website: (in progress)
+
+# Contact Information
+Email: (update later)<br>
+Phone number: (update later)
